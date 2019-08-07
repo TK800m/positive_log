@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Positivity log</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_add">Add input</string>
+    <string name="name">What went well?</string>
+    <string name="improve">Focus for improvements?</string>
+    <string name="training">What training did you do?</string>
+    <string name="technique">Technique</string>
+    <string name="physical">Physical</string>
+    <string name="mental">Mental</string>
+    <string name="other">Other</string>
+    <string name="database">Database</string>
+    <string name="save">Save</string>
+    <string name="textview">TextView</string>
+    <string name="back">Back</string>
+    <string name="run">Run</string>
+    <string name="bike">Bike</string>
+    <string name="strength">Strength</string>
+</resources>
