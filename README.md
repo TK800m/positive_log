@@ -4,6 +4,7 @@ Android app with SQLite implementation to log training based knowledge in sport 
 Implentation possible by using Android Studio and copying files to relevant directories
 
 path for java files:
+
 app\src\main\java\kupers800\trainingslog\mainlogcode
 - DbHandler
 - DetailsActivity
@@ -11,6 +12,7 @@ app\src\main\java\kupers800\trainingslog\mainlogcode
 - MainActivity
 
 Path for .xml layouts:
+
 app\src\main\res\layout
 - activity_main
 - details
